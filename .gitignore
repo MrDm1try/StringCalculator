@@ -1,0 +1,6 @@
+# IDE stuff
+.idea/
+
+# Java stuff
+out/
+target/
